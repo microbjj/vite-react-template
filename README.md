@@ -7,12 +7,14 @@ A pre-configured Vite + React template with ESLint, Prettier, and SWC.
 ## Setup
 
 1. Clone the repository:
-   ```bash
-   git clone git@github.com:microbjj/vite-react-template.git
-   cd <your-project-folder>
-   ```
+
+    ```bash
+    git clone git@github.com:microbjj/vite-react-template.git
+    cd vite-react-template
+    ```
 
 2. Install dependencies:
+
     ```bash
     npm install
     ```
